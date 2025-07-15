@@ -1,0 +1,19 @@
+{
+  "title": "The Hobbit",
+  "description": "A fantasy novel about the adventures of Bilbo Baggins.",
+  "type": "book",
+  "year": 1937,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_The_Hobbit.jpg"
+  ],
+  "genre": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "J.R.R. Tolkien"
+}

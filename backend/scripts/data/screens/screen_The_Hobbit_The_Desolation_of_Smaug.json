@@ -1,0 +1,31 @@
+{
+  "title": "The Hobbit: The Desolation of Smaug",
+  "description": "The second film in 'The Hobbit' trilogy follows Bilbo Baggins as he continues his journey with Thorin Oakenshield's company to reclaim the Lonely Mountain, facing the deadly dragon Smaug and the growing shadow of the Necromancer.",
+  "type": "screen",
+  "year": 2013,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_The_Hobbit_The_Desolation_of_Smaug.jpg"
+  ],
+  "genre": [
+    "Fantasy",
+    "Adventure",
+    "Action"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Peter Jackson",
+  "actors": [
+    "Martin Freeman",
+    "Ian McKellen",
+    "Richard Armitage",
+    "Benedict Cumberbatch",
+    "Evangeline Lilly",
+    "Lee Pace",
+    "Luke Evans",
+    "Orlando Bloom"
+  ],
+  "releaseDate": "2013-12-13"
+}

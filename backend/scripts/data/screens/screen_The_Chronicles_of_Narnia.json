@@ -1,0 +1,26 @@
+{
+  "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+  "description": "A fantasy adventure film about four children who discover a magical world through a wardrobe.",
+  "type": "screen",
+  "year": 2005,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_The_Chronicles_of_Narnia.jpg"
+  ],
+  "genre": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Andrew Adamson",
+  "actors": [
+    "Tilda Swinton",
+    "Georgie Henley",
+    "William Moseley",
+    "James McAvoy"
+  ],
+  "releaseDate": "2005-12-09"
+} 

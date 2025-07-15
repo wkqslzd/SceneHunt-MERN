@@ -1,0 +1,20 @@
+{
+  "title": "Much Ado About Nothing",
+  "description": "A comedic play exploring love and misunderstandings in Shakespearean England.",
+  "type": "book",
+  "year": 1598,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_Much_Ado_About_Nothing.jpg"
+  ],
+  "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "William Shakespeare"
+}

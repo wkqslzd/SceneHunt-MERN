@@ -1,0 +1,24 @@
+{
+  "title": "Titanic",
+  "description": "A romantic drama about the ill-fated maiden voyage of the RMS Titanic.",
+  "type": "screen",
+  "year": 1997,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_Titanic.jpg"
+  ],
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "James Cameron",
+  "actors": [
+    "Leonardo DiCaprio",
+    "Kate Winslet"
+  ],
+  "releaseDate": "1997-12-19"
+}

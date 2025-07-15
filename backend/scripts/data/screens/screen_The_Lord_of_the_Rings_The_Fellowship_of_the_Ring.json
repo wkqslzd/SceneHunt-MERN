@@ -1,0 +1,25 @@
+{
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "description": "A fantasy adventure film about a hobbit's quest to destroy a powerful ring.",
+  "type": "screen",
+  "year": 2001,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.jpg"
+  ],
+  "genre": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Peter Jackson",
+  "actors": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+  ],
+  "releaseDate": "2001-12-19"
+}

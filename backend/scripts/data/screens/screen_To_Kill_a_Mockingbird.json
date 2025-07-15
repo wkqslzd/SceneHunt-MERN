@@ -1,0 +1,24 @@
+{
+  "title": "To Kill a Mockingbird",
+  "description": "A drama film adaptation of Harper Lee's classic novel about racial injustice.",
+  "type": "screen",
+  "year": 1962,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_To_Kill_a_Mockingbird.jpg"
+  ],
+  "genre": [
+    "Drama",
+    "ComingOfAge"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Robert Mulligan",
+  "actors": [
+    "Gregory Peck",
+    "Mary Badham"
+  ],
+  "releaseDate": "1962-12-25"
+}

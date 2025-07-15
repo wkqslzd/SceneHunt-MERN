@@ -1,0 +1,19 @@
+{
+  "title": "Pride and Prejudice",
+  "description": "A classic novel about love and social class in Regency-era England.",
+  "type": "book",
+  "year": 1813,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_Pride_and_Prejudice.jpg"
+  ],
+  "genre": [
+    "Romance",
+    "Drama"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "Jane Austen"
+}

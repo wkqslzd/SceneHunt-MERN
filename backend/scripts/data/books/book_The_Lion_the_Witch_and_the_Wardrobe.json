@@ -1,0 +1,19 @@
+{
+  "title": "The Lion, the Witch and the Wardrobe",
+  "description": "Four children enter a magical world through a wardrobe and help defeat an evil witch.",
+  "type": "book",
+  "year": 1950,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_The_Lion_Witch_and_Wardrobe.jpg"
+  ],
+  "genre": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "C.S. Lewis"
+}

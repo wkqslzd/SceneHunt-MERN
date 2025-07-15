@@ -1,0 +1,19 @@
+{
+  "title": "A Night to Remember",
+  "description": "A detailed historical account of the RMS Titanic's doomed voyage.",
+  "type": "book",
+  "year": 1955,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_A_Night_to_Remember.jpg"
+  ],
+  "genre": [
+    "Historical",
+    "Other"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "Walter Lord"
+}

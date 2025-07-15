@@ -1,0 +1,34 @@
+{
+    "title": "The Lord of the Rings: The Rings of Power",
+    "description": "This epic fantasy series explores the Second Age of Middle-earth, thousands of years before 'The Hobbit' and 'The Lord of the Rings', showcasing the forging of the Rings of Power, the rise of the Dark Lord Sauron, and the fall of the island kingdom of Númenor.",
+    "type": "screen",
+    "year": 2022,
+    "language": "English",
+    "coverImages": [
+      "/backend/images/screen_The_Lord_of_the_Rings_The_Rings_of_Power.jpg"
+    ],
+    "genre": [
+      "Fantasy",
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "averageRating": 0,
+    "ratingCount": 0,
+    "createdAt": "2025-05-08T06:37:00.000Z",
+    "updatedAt": "2025-05-08T06:37:00.000Z",
+    "director": "J.A. Bayona",
+    "actors": [
+      "Morfydd Clark",
+      "Robert Aramayo",
+      "Ismael Cruz Córdova",
+      "Markella Kavenagh",
+      "Charlie Vickers",
+      "Daniel Weyman",
+      "Sophia Nomvete",
+      "Owain Arthur"
+    ],
+    "releaseDate": "2022-09-01",
+    "seasons": 1,
+    "episodes": 8
+}

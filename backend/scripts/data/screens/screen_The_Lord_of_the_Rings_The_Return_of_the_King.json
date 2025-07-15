@@ -1,0 +1,31 @@
+{
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "The epic conclusion to the trilogy, as Frodo and Sam make their final push to destroy the One Ring in Mordor, while Aragorn leads the forces of good in a last stand against Sauron's darkness.",
+    "type": "screen",
+    "year": 2003,
+    "language": "English",
+    "coverImages": [
+      "/backend/images/screen_The_Lord_of_the_Rings_The_Return_of_the_King.jpg"
+    ],
+    "genre": [
+      "Fantasy",
+      "Adventure",
+      "Drama"
+    ],
+    "averageRating": 0,
+    "ratingCount": 0,
+    "createdAt": "2025-05-08T06:37:00.000Z",
+    "updatedAt": "2025-05-08T06:37:00.000Z",
+    "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Sean Astin",
+      "Orlando Bloom",
+      "Andy Serkis",
+      "Billy Boyd",
+      "Dominic Monaghan"
+    ],
+    "releaseDate": "2003-12-17"
+  }

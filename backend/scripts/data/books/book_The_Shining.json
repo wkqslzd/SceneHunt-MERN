@@ -1,0 +1,19 @@
+{
+  "title": "The Shining",
+  "description": "A horror novel about a family's terrifying experience in an isolated hotel.",
+  "type": "book",
+  "year": 1977,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_The_Shining.jpg"
+  ],
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "Stephen King"
+}

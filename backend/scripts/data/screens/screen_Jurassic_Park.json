@@ -1,0 +1,25 @@
+{
+  "title": "Jurassic Park",
+  "description": "A science fiction adventure film about a theme park with cloned dinosaurs.",
+  "type": "screen",
+  "year": 1993,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_Jurassic_Park.webp"
+  ],
+  "genre": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Steven Spielberg",
+  "actors": [
+    "Sam Neill",
+    "Laura Dern",
+    "Jeff Goldblum"
+  ],
+  "releaseDate": "1993-06-11"
+}

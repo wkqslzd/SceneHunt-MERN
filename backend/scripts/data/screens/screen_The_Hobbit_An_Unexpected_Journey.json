@@ -1,0 +1,25 @@
+{
+  "title": "The Hobbit: An Unexpected Journey",
+  "description": "A fantasy adventure film following Bilbo Baggins' journey with a group of dwarves.",
+  "type": "screen",
+  "year": 2012,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_The_Hobbit_An_Unexpected_Journey.jpeg"
+  ],
+  "genre": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Peter Jackson",
+  "actors": [
+    "Martin Freeman",
+    "Ian McKellen",
+    "Richard Armitage"
+  ],
+  "releaseDate": "2012-12-14"
+}

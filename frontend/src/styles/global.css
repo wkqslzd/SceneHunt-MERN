@@ -1,0 +1,138 @@
+/* src/styles/global.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  a {
+    color: #f5c518;
+    text-decoration: none;
+    transition: color 0.3s;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    color: #e5b408;
+    text-decoration: underline;
+  }
+  
+  .clickable {
+    cursor: pointer;
+    color: #f5c518;
+    transition: color 0.3s;
+  }
+  
+  .clickable:hover {
+    color: #e5b408;
+  }
+  
+  /* Add smooth scrolling effect */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Highlight rating area animation */
+  @keyframes highlightRating {
+    0% {
+      background-color: rgba(245, 197, 24, 0.1);
+    }
+    50% {
+      background-color: rgba(245, 197, 24, 0.2);
+    }
+    100% {
+      background-color: transparent;
+    }
+  }
+  
+  .rating-highlight {
+    animation: highlightRating 2s ease-out;
+    border-radius: 8px;
+  }
+  
+  /* Enlarge the style of the modal box */
+  .media-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+    cursor: zoom-out;
+  }
+  
+  .media-modal img {
+    max-width: 90%;
+    max-height: 90vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: contain;
+  }
+  
+  .media-modal-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  body, html {
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  .MuiContainer-root {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  
+  @media (min-width: 1200px) {
+    .MuiContainer-root {
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+  }
+  .MuiContainer-root {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  /* Force all container elements to have a maximum width */
+.MuiContainer-root,
+.container,
+div[class*="container"],
+main,
+section,
+article {
+  max-width: 100% !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Force responsive grid */
+.MuiGrid-container,
+.grid-container,
+[class*="gridContainer"] {
+  width: 90% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}

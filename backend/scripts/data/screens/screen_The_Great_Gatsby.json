@@ -1,0 +1,24 @@
+{
+  "title": "The Great Gatsby",
+  "description": "A drama about the American dream and its discontents in the Roaring Twenties.",
+  "type": "screen",
+  "year": 2013,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_The_Great_Gatsby.png"
+  ],
+  "genre": [
+    "Drama",
+    "Romance"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Baz Luhrmann",
+  "actors": [
+    "Leonardo DiCaprio",
+    "Tobey Maguire"
+  ],
+  "releaseDate": "2013-05-10"
+}

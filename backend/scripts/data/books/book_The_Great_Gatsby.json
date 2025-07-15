@@ -1,0 +1,19 @@
+{
+  "title": "The Great Gatsby",
+  "description": "A tragic story of Jay Gatsby's pursuit of wealth and love on Long Island.",
+  "type": "book",
+  "year": 1925,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_The_Great_Gatsby.jpg"
+  ],
+  "genre": [
+    "Drama",
+    "Tragedy"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "F. Scott Fitzgerald"
+}

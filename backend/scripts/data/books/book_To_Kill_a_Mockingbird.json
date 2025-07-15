@@ -1,0 +1,19 @@
+{
+  "title": "To Kill a Mockingbird",
+  "description": "A classic novel about racial injustice and moral growth in the American South.",
+  "type": "book",
+  "year": 1960,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_To_Kill_a_Mockingbird.jpg"
+  ],
+  "genre": [
+    "Drama",
+    "ComingOfAge"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "Harper Lee"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Anyone But You",
+  "description": "A romantic comedy about two people who pretend to be in a relationship.",
+  "type": "screen",
+  "year": 2023,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_Anyone_But_You.jpg"
+  ],
+  "genre": [
+    "Romance",
+    "Comedy"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Will Gluck",
+  "actors": [
+    "Sydney Sweeney",
+    "Glen Powell"
+  ],
+  "releaseDate": "2023-05-31"
+}

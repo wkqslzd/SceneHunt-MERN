@@ -1,0 +1,19 @@
+{
+  "title": "Jurassic Park",
+  "description": "A science fiction novel about a theme park featuring cloned dinosaurs.",
+  "type": "book",
+  "year": 1990,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_Jurassic_Park.jpg"
+  ],
+  "genre": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "Michael Crichton"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "The Shining",
+  "description": "A psychological horror film about a family's terrifying experience in an isolated hotel.",
+  "type": "screen",
+  "year": 1980,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/screen_The_Shining.jpg"
+  ],
+  "genre": [
+    "Horror",
+    "Psychological"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "director": "Stanley Kubrick",
+  "actors": [
+    "Jack Nicholson",
+    "Shelley Duvall"
+  ],
+  "releaseDate": "1980-05-23"
+}

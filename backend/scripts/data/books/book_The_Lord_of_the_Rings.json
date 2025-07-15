@@ -1,0 +1,19 @@
+{
+  "title": "The Lord of the Rings",
+  "description": "An epic high-fantasy novel about the quest to destroy the One Ring.",
+  "type": "book",
+  "year": 1954,
+  "language": "English",
+  "coverImages": [
+    "/backend/images/book_The_Lord_of_the_Rings.jpg"
+  ],
+  "genre": [
+    "Fantasy",
+    "Adventure"
+  ],
+  "averageRating": 0,
+  "ratingCount": 0,
+  "createdAt": "2025-05-08T06:37:00.000Z",
+  "updatedAt": "2025-05-08T06:37:00.000Z",
+  "author": "J.R.R. Tolkien"
+}

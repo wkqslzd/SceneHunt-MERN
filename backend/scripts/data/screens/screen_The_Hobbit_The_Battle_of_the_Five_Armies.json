@@ -1,0 +1,35 @@
+{
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "description": "The epic conclusion to 'The Hobbit' trilogy, as Bilbo Baggins and Thorin Oakenshield's company face the consequences of reclaiming Erebor, culminating in a massive battle between dwarves, elves, men, orcs, and the awakening of darker forces.",
+    "type": "screen",
+    "year": 2014,
+    "language": "English",
+    "coverImages": [
+      "/backend/images/screen_The_Hobbit_The_Battle_of_the_Five_Armies.jpg"
+    ],
+    "genre": [
+      "Fantasy",
+      "Adventure",
+      "Action",
+      "Drama"
+    ],
+    "averageRating": 0,
+    "ratingCount": 0,
+    "createdAt": "2025-05-08T06:37:00.000Z",
+    "updatedAt": "2025-05-08T06:37:00.000Z",
+    "director": "Peter Jackson",
+    "actors": [
+      "Martin Freeman",
+      "Ian McKellen",
+      "Richard Armitage",
+      "Benedict Cumberbatch",
+      "Evangeline Lilly",
+      "Lee Pace",
+      "Luke Evans",
+      "Orlando Bloom",
+      "Cate Blanchett",
+      "Hugo Weaving",
+      "Christopher Lee"
+    ],
+    "releaseDate": "2014-12-17"
+}

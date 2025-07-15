@@ -1,0 +1,29 @@
+{
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "The second installment in the epic fantasy trilogy follows Frodo and Sam as they continue their journey to Mordor, while Aragorn, Legolas, and Gimli aid the besieged kingdom of Rohan.",
+    "type": "screen",
+    "year": 2002,
+    "language": "English",
+    "coverImages": [
+      "/backend/images/screen_The_Lord_of_the_Rings_The_Two_Towers.jpg"
+    ],
+    "genre": [
+      "Fantasy",
+      "Adventure",
+      "Action"
+    ],
+    "averageRating": 0,
+    "ratingCount": 0,
+    "createdAt": "2025-05-08T06:37:00.000Z",
+    "updatedAt": "2025-05-08T06:37:00.000Z",
+    "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Viggo Mortensen",
+      "Orlando Bloom",
+      "Sean Astin",
+      "Andy Serkis"
+    ],
+    "releaseDate": "2002-12-18"
+  }
