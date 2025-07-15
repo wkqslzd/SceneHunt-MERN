@@ -1,22 +1,5 @@
 # SceneHunt - CS732 Project by Team Fuzzy Foxes
 
-## ⚠️ Important Setup Notice
-
-**Before running this project, you need to configure environment variables:**
-
-1. Copy `backend/.env.example` to `backend/.env`
-2. Replace the placeholder values with your actual configuration:
-   - `MONGODB_URI`: Your MongoDB connection string
-   - `JWT_SECRET`: A secure random string for JWT token signing
-   - `OPENAI_API_KEY`: Your OpenAI API key (required for AI features)
-
-**Example:**
-```bash
-cd backend
-cp .env.example .env
-# Then edit .env with your actual values
-```
-
 ## Project Introduction
 
 SceneHunt is a web-based, cross-media cultural platform designed to connect literary and screen-based works through structured, community-driven knowledge contributions. It empowers users to explore, rate, and comment on books and screen-based works while actively discovering and submitting connections between them, such as adaptations, visual homages, thematic echoes, and character inspirations. Built with a MERN stack (MongoDB, Express, React, Node.js), SceneHunt supports user-generated content, verified through an AI-assisted review system and finalized by administrators. Each work has a dedicated profile page displaying its information, user ratings, comments, and a visual map of its cultural connections. SceneHunt aims to foster an interactive, knowledge-rich community where users can uncover and explore the intricate details connecting books and screen-based works.
@@ -136,10 +119,22 @@ cd frontend
 npm install
 ```
 
-### 3. Configure environment variables
+### 3. Configure environment variables ⚠️ **IMPORTANT**
 
-- Copy `.env.example` to `.env` in the `backend/` directory
-- Modify the configuration as needed (such as database connection, etc.)
+**This step is required before running the application:**
+
+1. Copy `.env.example` to `.env` in the `backend/` directory
+2. Replace the placeholder values with your actual configuration:
+   - `MONGODB_URI`: Your MongoDB connection string
+   - `JWT_SECRET`: A secure random string for JWT token signing
+   - `OPENAI_API_KEY`: Your OpenAI API key (required for AI features)
+
+**Example:**
+```bash
+cd backend
+cp .env.example .env
+# Then edit .env with your actual values
+```
 
 ### 4. Start MongoDB
 
